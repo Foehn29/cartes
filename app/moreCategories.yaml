@@ -1654,17 +1654,18 @@
   icon: handball
   hidden: true
 
-- name: Canoë-Kayak
+- name: Location de bateau
   group: Sports
   dictionary:
     - canoë
     - kayak
     - bateau
+    - surf
     - 🛶
     - 🌊
     - 🚣‍♀️
     - 🚣
-  query: '[sport=canoe]'
+  query: '[amenity=boat_rental]'
   icon: canoe
   hidden: true
 
